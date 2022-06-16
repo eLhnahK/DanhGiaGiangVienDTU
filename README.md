@@ -30,15 +30,20 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 
 ## Help
 
-👉 Mọi thắc mắc liên hệ: [Facebook](https://www.facebook.com/lehquockhanh/)
+☎️ Mọi thắc mắc liên hệ: 
+👉 [Facebook](https://www.facebook.com/lehquockhanh/)
+👉 Zalo: 0905324707
 
 ## Authors
 
-eLhanhK
-
-[Lê Khánh](https://www.facebook.com/lehquockhanh/)
+[eLhanhK](https://www.facebook.com/lehquockhanh/)
 
 ## Version History
 
 * 0.1
     * Tự động đánh giá giảng viên trên web Mydtu
+
+## DONATE 💸💸💸
+💰 MOMO: 0905324707
+💰 ViettelPay: 0905324707
+💰 MB Bank: 9704229202584735018
