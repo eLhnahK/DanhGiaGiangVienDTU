@@ -42,7 +42,8 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 
 * 0.1
     * Tự động đánh giá giảng viên trên web Mydtu
-
+* 0.2
+    * Cập nhật thêm chọn năm học và học kì để đánh giá 
 ## DONATE 💸💸💸
 💰 MOMO: 0905324707<br />
 💰 ViettelPay: 0905324707<br />
