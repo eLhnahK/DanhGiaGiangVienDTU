@@ -22,6 +22,7 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 ### Executing program
 
 * Điền tài khoản và mật khẩu DTU
+* Chọn năm học và học kỳ cần đánh giá
 * Chọn loại đánh giá
 * Nhập đủ 4 ô đánh giá
 * Nếu click đánh giá không được thì bên trên góc phải tool chọn fix chrome rồi thử lại
@@ -42,7 +43,8 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 
 * 0.1
     * Tự động đánh giá giảng viên trên web Mydtu
-
+* 0.2
+    * Cập nhật thêm chọn năm học và học kì để đánh giá 
 ## DONATE 💸💸💸
 💰 MOMO: 0905324707<br />
 💰 ViettelPay: 0905324707<br />
