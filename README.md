@@ -19,6 +19,8 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 * Tải file zip hoặc clone git 👌
 * Chạy DanhGiaGiangVien.exe
 
+### How to fix chromedriver? (Dự kiến)
+
 ### Executing program
 
 * Điền tài khoản và mật khẩu DTU
