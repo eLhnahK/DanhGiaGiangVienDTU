@@ -48,7 +48,7 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 * 0.2
     * Cập nhật thêm chọn năm học và học kì để đánh giá
 * 0.3 (Dự kiến)
-    * Loại chromedriver để giảm dung lượng của tool, mỗi máy phải tự fix chromedriver (Có hướng dẫn fix) 
+    * Loại bỏ chromedriver để giảm dung lượng của tool, mỗi máy phải tự fix chromedriver (Có hướng dẫn fix) 
 ## DONATE 💸💸💸
 💰 MOMO: 0905324707<br />
 💰 ViettelPay: 0905324707<br />
