@@ -17,9 +17,7 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 ### Installing
 
 * Tải file zip hoặc clone git 👌
-* Chạy DanhGiaGiangVien.exe
-
-### How to fix chromedriver? (Dự kiến)
+* Chạy DanhGiaGiangVien.exe với quyền Administrator
 
 ### Executing program
 
@@ -47,8 +45,9 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
     * Tự động đánh giá giảng viên trên web Mydtu
 * 0.2
     * Cập nhật thêm chọn năm học và học kì để đánh giá
-* 0.3 (Dự kiến)
-    * Loại bỏ chromedriver để giảm dung lượng của tool, mỗi máy phải tự fix chromedriver (Có hướng dẫn fix) 
+* 0.3
+    * Nâng cấp fix chromedriver để giảm dung lượng của tool 
+
 ## DONATE 💸💸💸
 💰 MOMO: 0905324707<br />
 💰 ViettelPay: 0905324707<br />
