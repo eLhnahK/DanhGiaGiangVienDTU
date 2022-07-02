@@ -17,17 +17,17 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
 ### Installing
 
 * Tải file zip hoặc clone git 👌
-* Chạy DanhGiaGiangVien.exe
-
-### How to fix chromedriver? (Dự kiến)
+* Chạy DanhGiaGiangVien.exe với quyền Administrator
 
 ### Executing program
 
+* Click fix chromedriver trước
 * Điền tài khoản và mật khẩu DTU
 * Chọn năm học và học kỳ cần đánh giá
 * Chọn loại đánh giá
 * Nhập đủ 4 ô đánh giá
-* Nếu click đánh giá không được thì bên trên góc phải tool chọn fix chrome rồi thử lại
+* Click đánh giá và để tự động chạy
+* Nếu click đánh giá xong trình duyệt xuất hiện xong tắt thì tắt tool xong mở lại là được
 * LƯU Ý: Mọi bước xác nhập captcha đều phải tự nhập bằng tay bởi vì không có tiền để thuê API giải captcha 🤒🤒🤒
 
 
@@ -47,8 +47,9 @@ Tự động đánh giá hết tất cả giảng viên đến khi nào hết th
     * Tự động đánh giá giảng viên trên web Mydtu
 * 0.2
     * Cập nhật thêm chọn năm học và học kì để đánh giá
-* 0.3 (Dự kiến)
-    * Loại bỏ chromedriver để giảm dung lượng của tool, mỗi máy phải tự fix chromedriver (Có hướng dẫn fix) 
+* 0.3
+    * Nâng cấp fix chromedriver để giảm dung lượng của tool và tỉ lệ fix thành công là 100%
+
 ## DONATE 💸💸💸
 💰 MOMO: 0905324707<br />
 💰 ViettelPay: 0905324707<br />
